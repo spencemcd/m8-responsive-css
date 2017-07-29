@@ -3,3 +3,32 @@
 * {
     box-sizing: border-box;
 }
+
+.col {
+	text-align: center;
+}
+
+h1 {
+	font-weight: 300;
+}
+
+i {
+	margin-bottom: 10px;
+	justify-content: center;
+}
+
+.anchor {
+	color: red;
+}
+
+.bell {
+	color: blue;
+}
+
+.asterisk {
+	color: purple;
+}
+
+.gear {
+	color: lightblue;
+}
